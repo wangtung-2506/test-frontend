@@ -1,2 +1,2 @@
 npm i 
-run file:pm run dev
+run file: npm run dev
